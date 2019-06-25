@@ -1,0 +1,9 @@
+.DC_Store
+out/
+*.class
+Git add .
+Git commit -m "second commit"
+Git add MyFile.java
+Git commit -m "second commit"
+Git remote add origin https://github.com/gtohti/FirstSeleniumProject.git
+Git push origin master
